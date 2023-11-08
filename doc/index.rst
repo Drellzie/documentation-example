@@ -6,7 +6,7 @@
 Welcome to XY Stage GUI's documentation!
 ========================================
 
-This is a description of this website. Testing
+This is a description of this website. Testing Good day to you siR!
 
 .. toctree::
    :maxdepth: 3
@@ -14,12 +14,3 @@ This is a description of this website. Testing
 
    summary
    modules.rst
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
