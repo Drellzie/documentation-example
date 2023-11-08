@@ -1,7 +1,7 @@
 gui module
 ==========
 
-.. automodule:: src/gui
+.. automodule:: gui.py
    :members:
    :undoc-members:
    :show-inheritance:
