@@ -1,4 +1,7 @@
-```{eval-rst}
-.. automodule:: gui
+gui module
+==========
+
+.. automodule:: src/gui
    :members:
-```
+   :undoc-members:
+   :show-inheritance:
