@@ -1,7 +1,7 @@
 gui module
 ==========
 
-.. automodule:: sr/gui
+.. automodule:: src/gui
    :members:
    :undoc-members:
    :show-inheritance:
