@@ -1,4 +1,4 @@
 ```{eval-rst}
-.. automodule:: example
+.. automodule:: gui
    :members:
 ```
