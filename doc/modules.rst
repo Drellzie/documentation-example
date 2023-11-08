@@ -1,6 +1,3 @@
-LION
-====
-
 .. toctree::
    :maxdepth: 4
 
